@@ -1,0 +1,22 @@
+---
+title: "lab_3"
+format: 
+  html:
+    code-fold: show
+    toc: true
+    number-sections: true
+    embed-resources: true
+editor: visual
+execute:
+  echo: true
+  message: false
+  warning: false 
+---
+
+
+
+
+
+
+
+
